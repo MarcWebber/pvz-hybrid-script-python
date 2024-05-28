@@ -1,5 +1,0 @@
-AREA = {
-    'WIDTH': 80,
-    'HEIGHT_SIX_LINES': 85,
-    'HEIGHT_FIVE_LINES': 100,
-}

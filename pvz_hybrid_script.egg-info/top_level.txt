@@ -1,2 +1,0 @@
-pvz_hybrid_script
-tests
