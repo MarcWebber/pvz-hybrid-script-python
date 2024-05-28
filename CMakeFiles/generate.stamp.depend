@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+D:/environment/Cmake/share/cmake-3.29/Modules/CMakeCInformation.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/CMakeCXXInformation.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/CMakeRCInformation.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/Compiler/MSVC-C.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/Platform/Windows-MSVC-C.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/Platform/Windows.cmake
+D:/environment/Cmake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
+D:/projects/python_projects/pvz-hybrid-script-python/CMakeFiles/3.29.2/CMakeCCompiler.cmake
+D:/projects/python_projects/pvz-hybrid-script-python/CMakeFiles/3.29.2/CMakeCXXCompiler.cmake
+D:/projects/python_projects/pvz-hybrid-script-python/CMakeFiles/3.29.2/CMakeRCCompiler.cmake
+D:/projects/python_projects/pvz-hybrid-script-python/CMakeFiles/3.29.2/CMakeSystem.cmake
+D:/projects/python_projects/pvz-hybrid-script-python/CMakeLists.txt
